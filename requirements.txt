@@ -1,0 +1,6 @@
+dash==2.18.2
+pandas
+gunicorn==19.9.0
+flask_caching
+sqlalchemy
+re
